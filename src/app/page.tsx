@@ -88,7 +88,7 @@ const sidebarPlatformItems = [
   { label: "Attendance", icon: Clock3 },
   { label: "Performance", icon: TrendingUp },
   { label: "Separation", icon: LogOut },
-  { label: "Requests", icon: GitPullRequestArrow, active: true },
+  { label: "Rewards and Recognition", icon: GitPullRequestArrow, active: true },
   { label: "Onboarding", icon: UserPlus },
   { label: "Confirmation", icon: ShieldCheck },
   { label: "Demands", icon: Gift },
